@@ -74,7 +74,7 @@ div.student {
 div.about {
   position: relative;
   left: 193px;
-  font-family: 'Oxygen';
+  font-family: 'M PLUS Rounded 1c';
   color: purple;
   background-color: white;
   width: 272px;
@@ -303,58 +303,8 @@ img.cassian2 {
 }
 /* end of CASSIAN styling*/
 
-/* Start of Polo's styling*/
 
-div.Ptext {
-	text-align: right;
-	color: white;
-	margin-top: 25px;
-	margin-bottom: 25px;
-	margin-right: 25px;
-	margin-left: 300px;
-	border: solid;
-  	border-color: white;
-}
 
-div.Ptext2 {
-	text-align: left;
-	color: white;
-	margin-top: 25px;
-	margin-bottom: 25px;
-	margin-right: 300px;
-	margin-left: 25px;
-	border: solid;
-  	border-color: white;
-}
-
-/* Start of Megans Styling */
-div.Mtext {
-  margin: 10px;
-  font-family: 'Helvetica';
-  color: white;
-  width: 600px;
-}
-
-div.meganexamples {
-  vertical-align: top;
-  display: inline-block;
-  /*left: auto; added this*/
-  margin: 10px;
-  width: auto;
-  height: auto;
-  background-color: white;
-  color: white;
-  padding: 10px;
-}
-
-img.megan1 {
-  width: 400px;
-  height: 400px;
-  padding: 4px;
-  margin: 4px;
-  border: solid 1px;
-  border-color: white;
-}
 
 
 /* responsive styling for mobile browsing */
