@@ -306,7 +306,6 @@ img.cassian2 {
 
 
 
-/*
 /* responsive styling for mobile browsing */
 
 /* when screen is 600px or less apply changes */
@@ -314,12 +313,11 @@ img.cassian2 {
   
   /* remove .gif background set background color to purple */
   body {
-    background-image: none !important;	  
-    background-color: purple !important;
+     background-image: url("https://cllabo.files.wordpress.com/2021/11/webbg-01.jpg");	  
+    
   }
 	
 }
-*/
 
 
 
