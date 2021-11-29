@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Work+Sans&display=swap');
 
 body {
- background-image: url("https://davidnwilsonsandbox.files.wordpress.com/2021/10/index-gif-short1.gif");
+ background-image: url("https://cllabo.files.wordpress.com/2021/11/webbg-01.jpg");
  background-position: center;
  background-repeat: no-repeat; 
  background-size: cover;
@@ -11,7 +11,7 @@ body {
 
 
 div.title {
-  font-family: 'Ubuntu';
+  font-family: 'M PLUS Rounded 1c';
   color: white;
   font-size: 37.5px;
   border: solid;
@@ -20,7 +20,7 @@ div.title {
 }
 
 div.subtitle {
-  font-family: 'Oxygen';
+  font-family: 'M PLUS Rounded 1c';
   color: white;
   font-size: 20px;
   left: 183px;
@@ -31,7 +31,7 @@ div.subtitle {
 div.menu {
   position: relative;
   left: 193px;
-  font-family: 'Oxygen';
+  font-family: 'M PLUS Rounded 1c';
   background-color: white;
   color: purple;
   border: solid;
@@ -40,7 +40,7 @@ div.menu {
 }
 
 div.index-description {
-  font-family: 'Oxygen';
+  font-family: 'M PLUS Rounded 1c';
   color: white;
   background-color: red;
   width: 400px;
@@ -64,7 +64,7 @@ div.student {
 	  width: 295px;
     height: auto;
 	  text-align: left;
-	  font-family: 'Oxygen';
+	  font-family: 'M PLUS Rounded 1c';
 	  font-size: 14px;
     background-color: white;
     color: white;
@@ -85,7 +85,7 @@ div.about {
 
 div.research {
   position: relative;
-  font-family: 'Oxygen';
+  font-family: 'M PLUS Rounded 1c';
   color: purple;
   background-color: white;
   width: 465px;
