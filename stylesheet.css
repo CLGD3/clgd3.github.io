@@ -284,6 +284,16 @@ div.cassianexamples {
  
 }
 
+div.cassianexamples2 {
+  margin: 4px;
+  padding: 4px;
+  width: auto;
+  height: auto;
+  vertical-align: top;
+  display: inline-block;
+ 
+}
+
 img.cassian1 {
   width: 1224px;
   height: 792px;
