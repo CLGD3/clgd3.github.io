@@ -194,15 +194,15 @@ div.Ctext {
 }
 
 div.cassianexamples {
-  border-radius: 25px
+  border-radius: 25px;
   margin: 4px;
   padding: 4px;
   width: auto;
   height: auto;
   vertical-align: top;
   display: inline-block;
-  background-color: white;
-  color: white;
+  background-color: #ffcc33;
+  color: #ffcc33;
  
 }
 
