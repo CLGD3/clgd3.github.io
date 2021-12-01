@@ -12,11 +12,11 @@ body {
 
 div.title {
   font-family: 'M PLUS Rounded 1c';
-  color: white;
+  color: #ffcc33;
   font-size: 37.5px;
   border: solid;
   border-color: white;
-  width: 465px;
+  width: 250px;
 }
 
 div.subtitle {
