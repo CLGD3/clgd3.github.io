@@ -177,7 +177,7 @@ img.two {
 }
 
 img.three {
-  border-radius: 25px;
+  border-radius: 20px;
   color: #ffcc33;
   width: 500px;
   height: 500px;
@@ -197,7 +197,7 @@ div.Ctext {
 }
 
 div.cassianexamples {
-  border-radius: 25px;
+  border-radius: 20px;
   margin: 4px;
   padding: 4px;
   width: auto;
@@ -220,7 +220,7 @@ div.cassianexamples2 {
 }
 
 img.cassian1 {
-  border-radius: 25px;
+  border-radius: 20px;
   width: 1224px;
   height: 792px;
   padding: 4px;
@@ -228,7 +228,7 @@ img.cassian1 {
 }
 
 img.cassian2 {
-  border-radius: 25px;
+  border-radius: 20px;
   width: 486px;
   height: 364px;
   padding: 4px;
@@ -236,7 +236,7 @@ img.cassian2 {
 }
 
 img.cassian3 {
-  border-radius: 25px;
+  border-radius: 20px;
   width: 700px;
   height: 700px;
   padding: 4px;
