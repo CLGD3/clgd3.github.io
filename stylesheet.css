@@ -221,8 +221,6 @@ img.cassian1 {
   height: 792px;
   padding: 4px;
   margin: 4px;
-  border: solid 2px;
-  border-color: yellow;
 }
 
 img.cassian2 {
@@ -230,8 +228,6 @@ img.cassian2 {
   height: 364px;
   padding: 4px;
   margin: 4px;
-  border: solid 2px;
-  border-color: orange;
 }
 
 img.cassian3 {
@@ -239,7 +235,6 @@ img.cassian3 {
   height: 700px;
   padding: 4px;
   margin: 4px;
- 
 }
 /* end of CASSIAN styling*/
 
