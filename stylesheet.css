@@ -176,12 +176,13 @@ img.two {
 }
 
 img.three {
+  border-radius: 25px;
+  color: #ffcc33;
   width: 500px;
   height: 500px;
   padding: 0px;
   margin: 0px;
-  border: solid 1px;
-  border-color: purple;
+
 }
 
 
