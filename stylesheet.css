@@ -301,6 +301,14 @@ img.cassian2 {
   border: solid 2px;
   border-color: orange;
 }
+
+img.cassian3 {
+  width: 700px;
+  height: 700px;
+  padding: 4px;
+  margin: 4px;
+ 
+}
 /* end of CASSIAN styling*/
 
 
