@@ -95,14 +95,15 @@ div.research {
 }
 
 div.examples {
+  border-radius: 25px;
   vertical-align: top;
   display: inline-block;
   /*left: auto; added this*/
   margin: 10px;
   width: 510px;
   height: auto;
-  background-color: white;
-  color: white;
+  background-color: #ffcc33;
+  color: #ffcc33;
   padding: 10px;
 }
 
@@ -144,7 +145,7 @@ li {
 
 a:link {
   text-decoration: none;
-  color: purple;
+  color: #ffcc33;
 }
 
 a:link.two {
