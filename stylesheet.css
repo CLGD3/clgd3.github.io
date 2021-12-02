@@ -98,6 +98,8 @@ div.examples {
   border-radius: 25px;
   display: flex;
   justify-content: center;
+  width: auto;
+  height: auto;
   background-color: #ffcc33;
   color: #ffcc33;
 }
