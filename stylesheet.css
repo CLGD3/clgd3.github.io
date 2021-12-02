@@ -96,10 +96,11 @@ div.research {
 
 div.examples {
   border-radius: 25px;
-  display: flex;
-  justify-content: center;
+  vertical-align: top;
+  display: inline-block;
+  /*left: auto; added this*/
+  margin: 10px;
   width: 500px;
-  height: 500px;
   background-color: #ffcc33;
   color: #ffcc33;
 }
@@ -194,8 +195,10 @@ div.Ctext {
 
 div.cassianexamples {
   border-radius: 25px;
-  display: flex;
-  justify-content: center;
+  vertical-align: top;
+  display: inline-block;
+  /*left: auto; added this*/
+  margin: 10px;
   width: auto;
   height: auto;
   background-color: #ffcc33;
