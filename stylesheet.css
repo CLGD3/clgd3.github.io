@@ -178,8 +178,6 @@ img.two {
 
 img.three {
   border-radius: 20px;
-  display: flex;
-  justify-content: center;
   color: #ffcc33;
   width: 500px;
   height: 500px;
@@ -200,12 +198,10 @@ div.Ctext {
 
 div.cassianexamples {
   border-radius: 25px;
-  margin: 5px;
-  padding: 5px;
+  display: flex;
+  justify-content: center;
   width: auto;
   height: auto;
-  vertical-align: top;
-  display: inline-block;
   background-color: #ffcc33;
   color: #ffcc33;
  
