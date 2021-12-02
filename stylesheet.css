@@ -98,8 +98,6 @@ div.examples {
   border-radius: 25px;
   display: flex;
   justify-content: center;
-  width: 500px;
-  height: auto;
   background-color: #ffcc33;
   color: #ffcc33;
 }
@@ -178,7 +176,6 @@ img.three {
   color: #ffcc33;
   width: 500px;
   height: 500px;
-  padding: 5px;
   margin: auto;
 
 }
