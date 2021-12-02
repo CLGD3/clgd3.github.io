@@ -178,7 +178,8 @@ img.two {
 
 img.three {
   border-radius: 20px;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
   color: #ffcc33;
   width: 500px;
   height: 500px;
