@@ -204,8 +204,14 @@ div.cassianexamples {
   height: auto;
   background-color: #ffcc33;
   color: #ffcc33;
- 
 }
+
+#smallexamples{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+}
+ 
+
 
 div.cassianexamples2 {
   margin: 5px;
