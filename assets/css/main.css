@@ -2,6 +2,11 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+/*
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -1315,10 +1320,12 @@ input, select, textarea {
 			}
 
 		#header .content {
-			border-style: solid;
-			border-color: #ffffff;
-			border-top-width: 1px;
-			border-bottom-width: 1px;
+			border-style: outset;
+			
+			border-top-width: 2.5px;
+			border-color: white;
+			border-bottom-width: 2.5px;
+			
 			max-width: 100%;
 		}
 
@@ -1634,7 +1641,65 @@ input, select, textarea {
 			}
 
 		}
+/* Work */
+#work nav ul {
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	justify-content: center;
+  	align-items: center;
+	margin-bottom: 0;
+	list-style: none;
+	padding-left: 0;
+	border: solid 0px #ffffff;
+	border-radius: 4px;
+}
 
+	#work nav ul li {
+		padding-left: 0;
+		border-left: solid 1px #ffffff;
+	}
+
+		#work nav ul li:first-child {
+			border-left: 0;
+		}
+
+		#work nav ul li a {
+			display: block;
+			
+			min-width: 7.5rem;
+			height: 2.75rem;
+			line-height: 2.75rem;
+			padding: 0 1.25rem 0 1.45rem;
+			text-transform: uppercase;
+			letter-spacing: 0.2rem;
+			font-size: 0.8rem;
+			border-bottom: 0;
+		}
+
+			#work nav ul li a:hover {
+				background-color: rgba(255, 255, 255, 0.075);
+			}
+
+			#work nav ul li a:active {
+				background-color: rgba(255, 255, 255, 0.175);
+			}
+
+#work nav.use-middle:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: calc(50% - 1px);
+	width: 1px;
+	height: 100%;
+	background: #ffffff;
+}
+
+#work nav.use-middle ul li.is-middle {
+	border-left: 0;
+}
 /* Footer */
 
 	#footer {
